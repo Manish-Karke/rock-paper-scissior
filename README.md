@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-A simple, interactive **Rock Paper Scissors** game built with **React** (or vanilla JavaScript) that allows users to play against the computer.  
+A simple, interactive **Rock Paper Scissors** game built with **React** and vanilla JavaScript that allows users to play against the computer.  
 This project demonstrates core JavaScript/React concepts such as state management, event handling, and basic game logic.
 
 ---
