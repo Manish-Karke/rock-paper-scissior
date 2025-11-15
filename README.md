@@ -8,10 +8,8 @@ This project demonstrates core JavaScript/React concepts such as state managemen
 ## 🎮 Features
 
 - **Play against the computer** with randomly generated choices.
-- **Score tracking** to keep track of wins, losses, and ties.
 - **User-friendly UI** with buttons for Rock, Paper, and Scissors.
 - **Instant feedback** on each round showing who wins.
-- **Responsive design** suitable for both desktop and mobile screens.
 - Option to **reset the game** and start a new match.
 
 ---
